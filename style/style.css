@@ -1,0 +1,52 @@
+body {
+  background-color: #efd6d2;
+}
+
+.wrapper {
+  position: absolute;
+  margin: auto;
+  width: 70%;
+  margin-top: 10%;
+  margin-left: 15%;
+  background-color: #6f5e76;
+  padding: 30px;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.quote {
+  font-size: 40px;
+  font-weight: 100;
+  color: #ffdde2;
+  font-family: Helvetica, sans-serif;
+}
+
+.author {
+  font-size: 20px;
+  font-weight: lighter;
+  text-align: right;
+  color: #ffdde2;
+  font-family: Helvetica, sans-serif;
+}
+
+.btn-quote {
+  display: block;
+  font-size: 20px;
+  background-color: #ff8cc6;
+  color: #6f5e76;
+  float: right;
+  padding: 8px;
+  border-radius: 7px;
+}
+
+a {
+  color: inherit;
+}
+
+.fa-twitter-square {
+  color: #ff8cc6;
+}
+
+.footer {
+  margin-top: 50px;
+}
